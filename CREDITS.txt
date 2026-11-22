@@ -1,0 +1,17 @@
+Iron Circuit - credits
+Copyright (c) 2026 Zawad Al Mahi. All rights reserved.
+Game design, programming and art direction: Zawad Al Mahi
+Car designs: Zawad Al Mahi (concept sheets made with Google Gemini)
+Characters and story: Zawad Al Mahi (character sheets made with Google Gemini)
+
+Sky photos and surface textures: Poly Haven (polyhaven.com), CC0.
+  beach_parking, abandoned_slipway, aarfontein_dusk, unfinished_office_night,
+  asphalt_02, road_damaged_clean, concrete_wall_006, concrete_floor_damaged_01,
+  rusty_metal_02, rusty_corrugated_iron, container_side
+Fonts: Rajdhani (Indian Type Foundry), Barlow (Jeremy Tribby), SIL Open Font License.
+
+Music: "Music Loop Bundle" by Abstraction / Ben Burnes (Tallbeard Studios), public domain (CC0),
+  https://tallbeard.itch.io/music-loop-bundle  ·  abstractionmusic.com - thank you, Ben.
+
+Engine: Godot Engine (c) Juan Linietsky, Ariel Manzur and the Godot Engine contributors, MIT license.
+  The full license text and third-party notices are in the game: Credits > Licenses.

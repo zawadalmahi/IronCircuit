@@ -1,0 +1,20 @@
+Iron Circuit
+Copyright (c) 2026 Zawad Al Mahi. All rights reserved.
+
+The game's code, shaders, tools, tracks, car set-ups, sound effects and
+generated textures are the work of Zawad Al Mahi. No part of them may be
+copied, redistributed or sold without written permission.
+
+Third-party assets keep their own licenses and are listed in CREDITS.txt:
+Poly Haven photos and textures (CC0), the music by Abstraction (CC0), the
+Rajdhani and Barlow fonts (SIL Open Font License) and the Godot Engine (MIT
+license; its text and its third-party notices are in the game under
+Credits > Licenses).
+
+The car and character designs were made from concept sheets generated with
+Google Gemini under Zawad Al Mahi's direction. Copyright in AI-generated
+images is unsettled in many countries; the claim above covers the game as a
+whole and all human-authored work in it.
+
+All car, driver, sponsor and place names are fictional. Any resemblance to
+real products, companies or persons is coincidental.
